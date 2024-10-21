@@ -1,34 +1,21 @@
 ## 👋 Hello, I'm Mebrouki Amine
 
-I'm a passionate software developer. from Algeria. I love exploring new technologies and building innovative solutions. and enjoy working on [Any Specific Projects].
+I'm a passionate software developer from Algeria. I love exploring new technologies and building innovative solutions, and I enjoy working on various projects.
 
-Skills
-💻 Programming Languages: javascript typescript python golang
+### Skills
 
-🚀 Frameworks: vue react nodejs graphql express
+💻 **Programming Languages:** Python, PHP, Node.js, Dart
 
-🌐 Web Technologies: html html htmlhtml json REST
+🚀 **Frameworks:** Laravel, Django, Flutter, Vue, React, Next.js, Express
 
-🧩 Web UI Frameworks: Vuetify.js Material UI Ant Design
+🌐 **Web Technologies:** HTML, CSS, JavaScript
 
-🗄️ Data Bases: mongodb mysql postgresql postgresql
+🧩 **Web UI Frameworks:** ShadcnUi, Vuetify.js, Material UI, Ant Design
 
-🖥️ Operating system: linux postgresql postgresql
+🗄️ **Databases:** MySQL, PostgreSQL, MongoDB
 
-🤿 DevOps: bash Git GitHub postgresql postgresql postgresql Bitbucket
+🖥️ **Operating System:** Linux
 
-📱 Mobile Dev: Dart Flutter
-<!--
-**da-production/da-production** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤿 **DevOps:** Bash, Git, GitHub, Bitbucket
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📱 **Mobile Development:** Dart, Flutter
